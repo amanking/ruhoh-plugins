@@ -1,4 +1,5 @@
 require_relative '../spec_helper'
+require_relative '../../breadcrumbs/breadcrumbs_addon'
 
 describe BreadcrumbsAddon do
   before :each do
